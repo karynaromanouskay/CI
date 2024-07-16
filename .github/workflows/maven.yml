@@ -53,6 +53,7 @@ jobs:
                                             <minimum>100%</minimum>
                                         </limit>
                                     </limits>
+                                    
                                 </rule>
                             </rules>
                         </configuration>
